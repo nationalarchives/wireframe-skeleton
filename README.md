@@ -13,7 +13,7 @@ Add new views to the application root as PHP files with the following structure:
     <body>
         <?php require_once('includes/header.php'); ?>
         <main id="page_wrap" class="container" role="main">
-            <?php // Replace the following line with an include for the page content ?>
+            <?php /* Replace the following line with an include for the page content */ ?>
             <?php require_once('includes/index-page-content.php'); ?>
         </main>
         <?php require_once('includes/footer.php'); ?>
