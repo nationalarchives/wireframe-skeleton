@@ -1,0 +1,47 @@
+/*Removes all colour from prototypes*/
+
+#mega-menu-pull-down {
+    background-color: #6E6E6E;
+}
+
+input[type='submit'] {
+    background-color: #383838;
+}
+
+#account-controls-wrapper {
+    background-color: #4D4D4D;
+}
+
+#footer-wrapper a {
+    color: #CCC;
+}
+
+.discoveryPrimaryCallToActionLink {
+    background-color: #383838;
+    color: #FFF;
+}
+
+.discoveryPrimaryCallToActionLink:hover {
+     background-color: #CCC;
+     color: #000;
+ }
+
+h1>span>span, h2>span>span {
+    background-color: #313337;
+}
+
+.order-option-wrapper, #hierarchy {
+    border-left: 8px solid #313337;
+}
+
+#retro-disco {
+    background-color: #FCE45C;
+}
+
+#retro-disco span {
+    color: #000;
+}
+
+.secondary {
+    background-color: #565656;
+}
