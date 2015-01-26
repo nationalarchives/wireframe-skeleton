@@ -39,7 +39,7 @@ Add new views to the application root as PHP files with the following structure:
 The application has Angular.js (including the en-gb locale), jQuery and Modernizr
 
 ### Bundled TNA libraries
-The application has tna-definitions.js, tna-bindings.js, tna-run-on-page-load.js and footer-img.js (in unminified form).
+The application has ```tna-definitions.js, tna-bindings.js, tna-run-on-page-load.js``` and ```footer-img.js``` (in unminified form).
 
 ### Prototype specific JavaScript files (and their roles)
 * ```prototype-overrides.js``` - overrides default HTML behaviours and JavaScripts that would interfere with user testing.
