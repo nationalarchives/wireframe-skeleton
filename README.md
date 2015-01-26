@@ -26,9 +26,9 @@ Add new views to the application root as PHP files with the following structure:
 
 The functions.php file contains a small number of commonly needed utilities. These are:
 
-* echoDate() simply prints a human readable date to the screen
-* scanFiles() scans the current working directory for files and outputs these to screen (allowing users to view all files within the directory)
-* checkFileName($name) is used within includes to identify whether the calling filename matches that of the argument (this is used to mock dynamic content within an include shared across the application)
+* ```php echoDate() ``` simply prints a human readable date to the screen
+* ```php scanFiles() ``` scans the current working directory for files and outputs these to screen (allowing users to view all files within the directory)
+* ```php checkFileName($name) ``` is used within includes to identify whether the calling filename matches that of the argument (this is used to mock dynamic content within an include shared across the application)
 
 
 
